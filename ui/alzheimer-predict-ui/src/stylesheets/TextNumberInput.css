@@ -1,0 +1,15 @@
+.input-data {
+    border: 1px solid #cbc9c9;
+    height: 2rem;
+    outline: none;
+    box-sizing: border-box;
+    padding: 1px 10px;
+    transition: 0.2s ease-in-out;
+    width: 150px;
+}
+
+.input-label {
+    width:100%;
+    vertical-align: middle;
+    justify-content: center;
+}

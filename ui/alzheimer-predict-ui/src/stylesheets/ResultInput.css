@@ -1,0 +1,10 @@
+.result-input-data {
+    margin-left: 1rem;
+    border: 1px solid #cbc9c9;
+    height: 2rem;
+    outline: none;
+    box-sizing: border-box;
+    padding: 1px 10px;
+    transition: 0.2s ease-in-out;
+    width: 30%;
+}

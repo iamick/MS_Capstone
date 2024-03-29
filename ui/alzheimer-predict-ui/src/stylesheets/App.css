@@ -1,0 +1,32 @@
+.container {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  color: #248f8f;
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+h3 {
+  color: #248f8f;
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+h4 {
+  color: #83A09D;
+  font-size: 20px;
+}
+
+.form-data {
+  display: grid;
+}
+
+.submit-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
